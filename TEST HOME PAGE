@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ALPHAVALA - Your Business Slogan</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to ALPHAVALA</h1>
+        <p>Your Business Slogan Here</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Products</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>About Us</h2>
+        <p>We are ALPHAVALA, a leading business in the industry. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </section>
+
+    <section>
+        <h2>Our Products</h2>
+        <p>Discover our wide range of products designed to meet your needs.</p>
+        <ul>
+            <li>Product 1</li>
+            <li>Product 2</li>
+            <li>Product 3</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact Us</h2>
+        <p>Get in touch with us for more information.</p>
+        <address>
+            Email: <a href="mailto:info@alphavala.com">info@alphavala.com</a><br>
+            Phone: <a href="tel:+123456789">123-456-789</a>
+        </address>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 ALPHAVALA. All rights reserved.</p>
+    </footer>
+</body>
+</html>
